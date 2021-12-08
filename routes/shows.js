@@ -1,6 +1,6 @@
 const { shows } = require('../database/shows')
 const { users } = require('../database/users')
-const { onlyUsers } = require('../helpers/onlyusers')
+const { onlyUsers } = require('../helpers/onlyUsers')
 
 const router = require('express').Router()
 
